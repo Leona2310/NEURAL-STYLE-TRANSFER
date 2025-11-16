@@ -23,3 +23,4 @@ Once the optimization loop completes, the script converts the tensor back into a
 
 # OUTPUT 
 
+<img width="836" height="691" alt="Image" src="https://github.com/user-attachments/assets/ee849713-68a8-4a5a-aadd-a72ed74e8f0e" />
